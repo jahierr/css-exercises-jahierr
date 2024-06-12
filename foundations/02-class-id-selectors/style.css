@@ -1,6 +1,6 @@
 /* Stylesheet */
 
-.num1, .num3, .num5 {
+.odd {
     background-color: #ff66ff;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 
@@ -11,11 +11,10 @@
     font-size: 36px;
 }
 
-.num3 {
+.font-size-adjustment {
     font-size: 24px;
 }
 
 #num4 {
     background-color: #2ded63;
-    font-size: 24px;
 }
